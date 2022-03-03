@@ -1,7 +1,7 @@
 // creo una funzione che controlla se la somma di due numeri x e y sia pari
 
 /**
- * function the checks is a number is even
+ * function that checks if a number is even
  * @param {*} number number to be checked
  * @returns true ( if number is even) ; otherwise false.
  */
